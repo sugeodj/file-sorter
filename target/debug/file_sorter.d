@@ -1,1 +1,1 @@
-/home/sugeodj/Languages/rust/file_sorter/target/debug/file_sorter: /home/sugeodj/Languages/rust/file_sorter/src/main.rs
+/home/sugeodj/Developer/github/FileSorter/target/debug/file_sorter: /home/sugeodj/Developer/github/FileSorter/src/main.rs
