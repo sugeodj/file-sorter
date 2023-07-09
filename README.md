@@ -29,13 +29,13 @@ After running the File Sorter script, the `Documents` directory will be organize
 
 Documents/
 ├── pdf/
-│ └── resume.pdf
+│   └── resume.pdf
 ├── txt/
-│ └── notes.txt
+│   └── notes.txt
 ├── jpg/
-│ └── image.jpg
+│   └── image.jpg
 └── pptx/
-└── presentation.pptx
+    └── presentation.pptx
 
 ## Limitations
 
