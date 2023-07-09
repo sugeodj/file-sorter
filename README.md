@@ -28,7 +28,6 @@ Suppose you have a directory called `Documents` with the following files:
 After running the File Sorter script, the `Documents` directory will be organized as follows:
 
 <pre>
-```plaintext
 Documents/
 ├── pdf/
 │   └── resume.pdf
@@ -38,7 +37,6 @@ Documents/
 │   └── image.jpg
 └── pptx/
     └── presentation.pptx
-```
 </pre>
 
 ## Limitations
